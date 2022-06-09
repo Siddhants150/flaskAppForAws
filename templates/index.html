@@ -1,0 +1,22 @@
+{% extends 'basic.html' %}
+
+{% block head%}
+
+{% endblock %}
+
+{% block body %}
+
+<h1>hello world</h1>
+
+<form action = '/' method = 'POST'>
+    <input type = "text" name = "content" id = "content">
+    <br><input type = "submit" value = "submit">
+    <br><br><br>
+    {% for i in dic %}
+        <ul>
+            <li>{{i}}</li>
+        </ul>
+    {% endfor %}
+</form>
+
+{% endblock %}

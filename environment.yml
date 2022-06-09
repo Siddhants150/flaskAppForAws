@@ -1,0 +1,4 @@
+name: flask1-env
+channels:
+  - defaults
+prefix: /home/siddhant_sharma/miniconda3/envs/flask1-env
