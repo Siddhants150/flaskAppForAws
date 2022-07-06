@@ -9,7 +9,7 @@
 
 ### EC2 Details
 
-    ![Ec2 details](asset/ec2Details.png)
+    ![](asset/ec2Details.png)
 
 ### Inbound Rules
 
