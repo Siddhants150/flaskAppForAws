@@ -9,11 +9,11 @@
 
 ### EC2 Details
 
-    ![Ec2 details](/asset/ec2Details.png)
+    ![Ec2 details](asset/ec2Details.png)
 
 ### Inbound Rules
 
-    ![Inbound Rules Details](/asset/inboundRule.png)
+    ![Inbound Rules Details](asset/inboundRule.png)
 
 ### Networking Details
 
